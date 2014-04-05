@@ -6,7 +6,16 @@
 
 .idea
 .gradle
-
 build/
 .DS_Store
+
+
 ###################################
+#
+# java/eclipse/project ignore files
+#
+##################################
+
+.classpath
+.project
+.settings
